@@ -1,13 +1,23 @@
-# skylv-self-health-monitor
+# Self Health Monitor
 
-self health monitor - OpenClaw Skill
+> self health monitor - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-self-health-monitor
 ```
 
-## Description
-An OpenClaw skill for self health monitor.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-self-health-monitor
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
